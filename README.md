@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bui Trung Hieu</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=btrunghieu" alt="btrunghieu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=btrunghieu&theme=dracula" alt="btrunghieu" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
