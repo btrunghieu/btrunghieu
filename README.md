@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=btrunghieu&show_icons=true&locale=en&theme=dracula" alt="btrunghieu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=btrunghieu" alt="btrunghieu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=btrunghieu&theme=dracula" alt="btrunghieu" /></p>
